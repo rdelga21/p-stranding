@@ -1,0 +1,62 @@
+---
+title: "P-stranding"
+author: "Delgado and Koronkiewicz"
+date: "`r Sys.Date()`"
+output: pdf_document
+indent: TRUE
+header-includes: 
+  - \usepackage{gb4e}\noautomath
+bibliography: masterlist.bib 
+---
+
+# Introduction
+
+Languages vary when extracting determiner phrases (DPs) from prepositional phrases (PPs) [@law2006; @salles1995]. In English, such an extraction is possible and it is referred to as *preposition stranding* (or p-stranding). Consider the following example :
+
+\begin{exe}
+\ex\label{intro_pstranding} Chad doesn't know [DP what friend]i Kevin is travelling [PP with ti]
+\end{exe}
+
+\noindent In (\ref{intro_pstranding}), the DP *what friend* has been
+extracted from the PP *with*.
+
+In English it is also possible to move the DP along with the
+PP, and this is referred to as *pied-piping*. Consider the
+following example:
+
+\begin{exe}
+\ex\label{intro_pipedpiping} I don't know [PP from[DP what store]]i she got it ti.
+\end{exe}
+
+\noindent In (\ref{intro_pipedpiping}), the entire PP, along with the DP, was moved. 
+
+Spanish, on the other hand, traditionally does not allow for p-stranding--only pied-piping is permissible. Consider the following examples:
+
+\begin{exe}
+\ex\label{Spanish_intro_piedpiping} Fernando no sabe [PP con [DP qué amiga]]i Sergio está viajando ti.
+\end{exe}
+
+\begin{exe}
+\ex[*/?]{Fernando no sabe [DP qué amiga]i Sergio está viajando [PP con ti].}
+\label{Spanish_intro_pstranding} 
+\end{exe}
+
+\noindent In (\ref{Spanish_intro_piedpiping}), the entire PP has
+been pied-piped, resulting in an acceptable sentence. In
+(\ref{Spanish_intro_pstranding}), the preposition has been
+stranded, resulting in an unacceptable sentence. 
+
+This asymmetry between Spanish and English creates a potential
+conflict when both languages are used in the same utterance,
+otherwise known as *code-switching* (CS). There are several
+questions that arise with this conflict:
+
+- What is the availability of p-stranding and pied-piping in intrasentential code-switching?
+- Is it possible to extract a Spanish DP out of an English DP? or vice versa?
+- If so, is it the language of the determiner or the preposition that motivates p-stranding?
+
+
+    
+
+
+# References
